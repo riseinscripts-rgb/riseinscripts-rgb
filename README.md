@@ -3,6 +3,7 @@
  Data Engineer | Data Analyst | Data Scientist | Visualizer & Storyteller  
 
 Turning raw data into insights, systems, and stories. By:
+
 Data Mining • Wrangling • Cleaning • EDA • Visualization • Machine Learning • Data Warehousing • Cloud Computing
 
 

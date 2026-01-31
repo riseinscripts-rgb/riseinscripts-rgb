@@ -1,10 +1,12 @@
 # Rise In Scripts 👋
 
-🚀 Data Engineer | Data Analyst | Data Scientist | Visualizer & Storyteller  
+ Data Engineer | Data Analyst | Data Scientist | Visualizer & Storyteller  
 
-Turning raw data into insights, systems, and stories.
+Turning raw data into insights, systems, and stories. By:
+Data Mining • Wrangling • Cleaning • EDA • Visualization • Machine Learning • Data Warehousing • Cloud Computing
 
-### 🛠 Tech Stack
+
+###  Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
@@ -19,4 +21,4 @@ Turning raw data into insights, systems, and stories.
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-📌 Building real projects & committing consistently.
+ Building real projects & committing consistently.

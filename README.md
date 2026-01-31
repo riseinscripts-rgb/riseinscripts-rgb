@@ -22,4 +22,4 @@ Data Mining • Wrangling • Cleaning • EDA • Visualization • Machine Lea
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
- Building real projects & committing consistently.
+ Open for hire and collaborations.

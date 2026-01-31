@@ -11,14 +11,6 @@ I’m a growing tech enthusiast focused on turning raw data into meaningful insi
 - Data warehousing
 - Cloud computing and cyber security
 
- My GitHub is a learning journey where I consistently push:
-- Python sessions  
-- R analytics  
-- SQL practice  
-- Tableau & Power BI dashboards  
-- Jupyter Notebook projects  
-- Django & system development work  
-
 ---
 
  Skills & Technologies
@@ -28,23 +20,28 @@ I’m a growing tech enthusiast focused on turning raw data into meaningful insi
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ---
+
  Data & Visualization
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ---
+
  Machine Learning & Analysis
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/JupyterNotebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ---
+
  Databases
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ---
+
  Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ---
+
  IDEs & Editors
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
